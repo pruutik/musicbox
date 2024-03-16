@@ -1,0 +1,6 @@
+{
+    "api_key": "yourapikey",
+    "user": "lasfmusername",
+    "listening_limit": "200",
+    "retrys": "3"
+}

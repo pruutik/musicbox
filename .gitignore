@@ -1,0 +1,9 @@
+.*
+!/.gitignore
+
+# Sensitive info #
+######################
+*config*
+
+# Dependency directories
+node_modules/
